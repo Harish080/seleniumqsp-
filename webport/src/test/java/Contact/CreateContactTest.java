@@ -40,7 +40,7 @@ public class CreateContactTest extends BaseClass{
 
 	//pull1
 //push1
-		//new 1
+		//new 123
 	
 		Thread.sleep(2000);
 
